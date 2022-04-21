@@ -23,8 +23,8 @@
 # Hello developers, I´m Edvaldo! 
 
 
-- <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Developer.gif height="30px"> Today I work with front-end.<br>
-- 📖 Studying Javascript.
+- <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Developer.gif height="30px"> Today I work with Flutter and Dart.<br>
+- 📖 Studying english.
 
 <div>
   <a href="https://github.com/wsy152
