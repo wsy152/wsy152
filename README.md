@@ -1,4 +1,4 @@
-<!-- <h1> Hi! My name is Edvaldo. </h1>
+<h1> Hi! My name is Edvaldo. </h1>
 
 <div>
   <a href="https://github.com/wsy152">
@@ -16,8 +16,10 @@
   ![Snake animation](https://github.com/wsy152/wsy152/blob/output/github-contribution-grid-snake.svg)
  
 </div>
- -->
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04BF9D&height=180&section=header&text= &fontSize=30&fontColor=#04BF9D&animation=twinkling&fontAlignY=35"/>
+
+ 
+ 
+<!--  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04BF9D&height=180&section=header&text= &fontSize=30&fontColor=#04BF9D&animation=twinkling&fontAlignY=35"/>
   <br>
 
 # Hello developers, I´m Edvaldo! 
@@ -46,7 +48,7 @@
 </div>
     <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04BF9D&height=120&section=footer"/>
-
+ -->
 
 
 
